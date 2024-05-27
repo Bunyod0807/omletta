@@ -1,0 +1,44 @@
+.div{
+    background-color: rgb(232, 210, 253);
+    border-radius: 3px;
+}
+.h1{
+    color: red;
+}
+span{
+    font-weight: 900;
+    
+}
+.plate{
+   color: red;
+   
+}
+.c1{
+    display: flex ;
+    gap: 500px;
+    
+}
+#g1{
+    border-top: 1px solid black;
+}
+
+    
+
+.b{
+    background-color: white;
+    width: 650px;
+    padding-left:50px ;
+    padding-right:50px ;
+    margin-left: 260px;
+    border-radius: 3%;
+}
+.d{
+    border-radius: 3%;
+    width: 100%;
+    margin-top: 30px;
+}
+body{
+    background-color: rgb( 247,214,170);
+    padding:250px;
+
+}
